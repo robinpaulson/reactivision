@@ -8,8 +8,8 @@ software
 Changes from upstream:
 * Ability to select an arbitrary file for the camera device
 
-Changes (c) 2012 Dean Serenevy <dean@serenevy.net> and release under same
-terms as original sources (GPL-2+).
+Changes (c) 2012 Robin Paulson, released under the same terms as the original
+sources (GPL-2+).
 
 https://github.com/robinpaulson/reactivision
 
