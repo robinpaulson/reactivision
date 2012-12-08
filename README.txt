@@ -1,5 +1,5 @@
-reacTIVision - UNOFFICIAL FORK
-------------------------------
+reactivision fork
+-----------------
 
 This repository is a fork of duelafn's fork of the reacTIVision computer vision
 framework. It includes various minor fixes that are necessary for my use of the
