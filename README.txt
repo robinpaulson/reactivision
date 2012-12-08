@@ -1,20 +1,17 @@
 reacTIVision - UNOFFICIAL FORK
 ------------------------------
 
-This repository is an unofficial fork of the reacTIVision computer vision
-framework. It focuses on bugfixes. modernization, and limited feature
-expansion in the Linux code (I have no access to other operating systems).
+This repository is a fork of duelafn's fork of the reacTIVision computer vision
+framework. It includes various minor fixes that are necessary for my use of the
+software
 
 Changes from upstream:
-
- * Modify to compile on newer (≥ 2.6.38) kernels
- * Add a "Contrast" camera setting
- * Set FPS in Linux
+* Ability to select an arbitrary file for the camera device
 
 Changes (c) 2012 Dean Serenevy <dean@serenevy.net> and release under same
 terms as original sources (GPL-2+).
 
-https://github.com/duelafn/reactivision
+https://github.com/robinpaulson/reactivision
 
 
 reacTIVision
