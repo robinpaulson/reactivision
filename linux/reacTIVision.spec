@@ -20,7 +20,7 @@ Requires: SDL >= 1.2
 Requires: libdc1394 >= 2.0
 
 %description
-reacTIVision is an open source, cross-platform computer vision
+reacTIVision is a free software, cross-platform computer vision
 framework for the fast and robust tracking of fiducial markers
 attached onto physical objects, as well as for multi-touch
 finger tracking. It was mainly designed as a toolkit for the 

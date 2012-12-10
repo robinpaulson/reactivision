@@ -147,7 +147,7 @@ bool V4Linux2Camera::findCamera() {
     if (config.device<0) config.device=0;
 
     char v4l2_device[128];
-    sprintf(v4l2_device,"/dev/video%d",config.device);
+    sprintf(v4l2_device,"~/video%d",config.device);
 
     int fd = open(v4l2_device, O_RDWR);
     if (fd < 0) {
